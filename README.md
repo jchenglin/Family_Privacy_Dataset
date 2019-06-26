@@ -16,4 +16,4 @@
         The images have different scenes, objects, lights, angles, and pixels, which are approximately 52% of the total images. 
         3) Collected from other datasets like nsfw_data_scrapper, which involved visual privacy. 
         Other privacy images of the home environment are not included, which are approximately 32% of the total images. 
-    The training datasets consist of 8,720 images of 7 categories, and the test datasets contain 1,280 images, totaling 10,000                    images. 
+    The training datasets consist of 8,720 images of 7 categories, and the test datasets contain 1,280 images, totaling 10,000                     images. 
