@@ -8,7 +8,7 @@
         C4: changing of clothes that shows a naked body; 
         C5: someone not involved in the above privacy content; 
         C6: nobody is at home; 
-        C7: privacy datasets that do not contain a home environment at all. 
+        C7: privacy datasets that do not contain a home environment at all.                
     The training data include the following images:
         1) Images are collected independently by MAT’s 3D somatosensory in a real home environment, 
         which is approximately 16% of the total images.  
