@@ -1,5 +1,5 @@
 # Family_Privacy_Dataset
-    we establish datasets of different household scenes to check the system’s working 
+   We establish datasets of different household scenes to check the system’s working 
     capability in a real family environment.
     The datasets have seven categories of household scenes, namely, 
         C1: taking a shower; 
